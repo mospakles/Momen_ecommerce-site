@@ -1,4 +1,3 @@
-import { Details } from '@mui/icons-material';
 import React from 'react'
 import styled from 'styled-components'
 import Announcements from '../Components/Announcements'
@@ -56,6 +55,31 @@ const Info = styled.div`
 const Summary = styled.div`
     flex: 1;
 `;
+
+const Product = styled.div`
+    
+`;
+
+const ProductDetail = styled.div`
+    
+`;
+
+const Image = styled.img`
+    
+`;
+
+const Details = styled.div`
+    
+`;
+
+const ProductName = styled.div`
+    
+`;
+
+const PriceDetail = styled.div`
+    
+`;
+
 
 const Cart = () => {
   return (
